@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Color Picker",
+  "version": "1.0",
+  "description": "A Chrome extension to pick colors using the EyeDropper API and save them to local storage.",
+  "icons": {
+    "16": "color-picker.png",
+    "48": "color-picker.png",
+    "128": "color-picker.png"
+  },
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "color-picker.png"
+    }
+  },
+  "author": "Uzzal Yafi"
+}
