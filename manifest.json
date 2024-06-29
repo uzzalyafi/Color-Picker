@@ -10,7 +10,7 @@
   },
   "permissions": ["storage", "activeTab"],
   "action": {
-    "default_popup": "popup.html",
+    "default_popup": "index.html",
     "default_icon": {
       "48": "color-picker.png"
     }
