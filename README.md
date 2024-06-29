@@ -1,3 +1,4 @@
+![enter image description here](https://raw.githubusercontent.com/uzzalyafi/Color-Picker/main/image/color-picker.png)
 # Color Picker Chrome Extension
 
 ## Overview
